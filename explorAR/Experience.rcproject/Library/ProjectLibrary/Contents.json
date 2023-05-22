@@ -1,0 +1,27 @@
+[
+  {
+    "libraryIdentifier" : "c6e0c1649359ea9671d703c5a441b6b6",
+    "format" : "model",
+    "displayName" : "shark.usdz"
+  },
+  {
+    "libraryIdentifier" : "fae072053bc845e15c550f13cd4aba49",
+    "format" : "model",
+    "displayName" : "octopus.usdz"
+  },
+  {
+    "libraryIdentifier" : "7ab2b3dc39b3a58e04f94c1bb896c34d",
+    "format" : "model",
+    "displayName" : "whale.usdz"
+  },
+  {
+    "libraryIdentifier" : "dcebe5218e28b54cde30d1c4f00807ad",
+    "format" : "model",
+    "displayName" : "crab.usdz"
+  },
+  {
+    "libraryIdentifier" : "45b18f963d8288ae458c54ac1c0b75bb",
+    "format" : "model",
+    "displayName" : "dolphin.usdz"
+  }
+]
